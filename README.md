@@ -9,6 +9,10 @@
 </p>
 
 # What I Want To Learn
-- [ ] [![My Skills](https://skillicons.dev/icons?i=nim)](https://skillicons.dev)
-- [ ] ipfs
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=nim, ipfs,&perline=9" />
+  </a>
+</p>
+
 - [ ] Machine Learning
