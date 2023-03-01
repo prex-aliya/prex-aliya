@@ -9,6 +9,6 @@
 </p>
 
 # What I Want To Learn
-- [ ] nim
+- [ ] [![My Skills](https://skillicons.dev/icons?i=nim)](https://skillicons.dev)
 - [ ] ipfs
 - [ ] Machine Learning
