@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,md,latex,github,bash,c,rust,go,lua,html,css,neovim,vim)](https://skillicons.dev)
 
 # What I Want To Learn
-- [ ]
+- [ ] todo!()
