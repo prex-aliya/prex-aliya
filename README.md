@@ -9,4 +9,6 @@
 </p>
 
 # What I Want To Learn
-- [ ] todo!()
+- [ ] nim
+- [ ] ipfs
+- [ ] Machine Learning
