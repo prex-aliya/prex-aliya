@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hi, I’m @prex-aliya
+  👋 Hi, I’m @prex-aliya<br />
   
   <a href="https://skillicons.dev">
     <img src="https://streak-stats.demolab.com?user=prex-aliya&theme=transparent&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D" />
