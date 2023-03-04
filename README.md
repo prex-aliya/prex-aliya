@@ -1,9 +1,10 @@
 <p align="center">
   👋 Hi, I’m @prex-aliya<br />
   
-  <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=prex-aliya&theme=transparent&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D" />
-  </a>
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=prex-aliya&theme=transparent&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D" />
+  </p>
+
 </p>
   
 <p align="center">
