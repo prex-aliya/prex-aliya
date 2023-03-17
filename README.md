@@ -15,6 +15,7 @@
   </a>
 </p>
 
+
 # What I Want To Learn
 
 <p align="center">
@@ -24,3 +25,11 @@
 </p>
 
 - [ ] Machine Learning
+
+
+# PHILOSOPHY
+
+I will have minimal documentation, if you want documentation, make it yourself,
+and add it to the project, never was good at it. I would prefer to spend my time
+writing the code for the project instead of the docs. Will try to get a minimal
+doc out though, so do not be scared.
