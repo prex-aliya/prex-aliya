@@ -11,7 +11,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linux,md,latex,github,git,bash,c,rust,go,lua,html,css,neovim,vim&perline=9" />
+   <img src="https://skillicons.dev/icons?i=linux,md,latex,github,git,bash,c,rust,go,lua,html,css,neovim,bsd,vim&perline=9" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nim,ipfs,bsd&perline=9" />
+  <img src="https://skillicons.dev/icons?i=nim,ipfs&perline=9" />
  </a>
 </p>
 
